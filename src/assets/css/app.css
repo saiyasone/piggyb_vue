@@ -1,0 +1,44 @@
+:root {
+  --bg-color: #1f88e5;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans Lao", "Gill Sans", "Gill Sans MT", Calibri,
+    "Trebuchet MS", sans-serif;
+}
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: "Noto Sans Lao";
+}
+
+.container-body {
+  padding: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group>label {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.form-group>small {
+  color: red;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+body {
+  height: 100%;
+}

